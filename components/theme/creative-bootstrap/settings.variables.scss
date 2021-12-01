@@ -1,0 +1,15 @@
+@import "../colors";
+
+$danger: $RED_UI;
+$secondary: $GRAY;
+$primary-dark: $DARK_GRAY;
+
+$theme-colors: ();
+$theme-colors: map-merge(
+  (
+    "primary-dark": $primary-dark,
+    "secondary": $secondary,
+    "danger": $danger,
+  ),
+  $theme-colors
+);

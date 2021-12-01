@@ -1,0 +1,18 @@
+@import "creative-bootstrap/settings.variables";
+@import "node_modules/bootstrap/scss/bootstrap";
+
+
+.CodeMirror {
+    height: 90px;
+    padding: 0 3px 0 5px;
+    min-width: 20px;
+    background-color: #212529 !important;
+    white-space: nowrap;
+    font-family: monospace;
+    height: 300px;
+    color: white !important;
+    direction: ltr;
+}
+.CodeMirror-gutters {
+    background-color: #212529 !important;
+}
