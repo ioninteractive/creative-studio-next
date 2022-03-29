@@ -20,4 +20,4 @@ When editing your codeblock component the rendering iframe is already looking fo
 
 To learn more about this implementation, take a look at the following resources:
 
-- [Documentation](https://wiki.rockcontent.com/share/ef90d662-99c9-4c05-a59a-dcb186cb9570) - learn about spike backbone to react migration.
+- [Documentation](https://rockcontent.getoutline.com/share/f5bb7495-dc2a-4901-b7b9-98223b2d98cb) - learn about spike backbone to react migration.
